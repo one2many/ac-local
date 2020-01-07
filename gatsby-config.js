@@ -11,6 +11,14 @@ module.exports = {
                 path: `${__dirname}/src/pages`,
             },
         },
+       { 
+            resolve: "gatsby-plugin-hubspot",
+            options: {
+            trackingCode: "6728858",
+            respectDNT: true,
+            productionOnly: true,
+            },   
+    },
         {
             resolve: `gatsby-plugin-stackbit-static-sass`,
             options: {
