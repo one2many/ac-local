@@ -5,6 +5,7 @@ import Footer from './Footer';
 import Header from './Header';
 import Icons from './Icons';
 import Spotlights from './Spotlights';
+import Merchandise from './Merchandise';
 import Layout from './Layout';
 
 export {
@@ -15,6 +16,7 @@ export {
     Header,
     Icons,
     Spotlights,
+    Merchandise,
     Layout
 };
 
@@ -26,5 +28,6 @@ export default {
     Header,
     Icons,
     Spotlights,
+    Merchandise,
     Layout
 };
