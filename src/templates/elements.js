@@ -292,7 +292,7 @@ export default class Elements extends React.Component {
                                 <h5>Fit</h5>
                                 <div className="box alt">
                                     <div className="row gtr-50 gtr-uniform">
-                                        <div className="col-12"><span className="image fit"><img src="images/banner.jpg" alt="" /></span></div>
+                                        <div className="col-12"><span className="image fit"><img src="images/munsterbg.jpg" alt="" /></span></div>
                                         <div className="col-4"><span className="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
                                         <div className="col-4"><span className="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
                                         <div className="col-4"><span className="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
